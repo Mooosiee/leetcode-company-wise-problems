@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 ⭐DONE,Bulb Switcher,100.0,0.540826122720978,https://leetcode.com/problems/bulb-switcher,"Math, Brainteaser"
-EASY,Happy Number,99.0,0.580726470983853,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Two Sum,95.7,0.557770016057161,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Climbing Stairs,92.0,0.5354071218159873,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-EASY,Best Time to Buy and Sell Stock,92.0,0.5525962294861477,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+⭐DONE,Happy Number,99.0,0.580726470983853,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+DONE,Two Sum,95.7,0.557770016057161,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+DONE,Climbing Stairs,92.0,0.5354071218159873,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+,Best Time to Buy and Sell Stock,92.0,0.5525962294861477,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
 EASY,Palindrome Number,85.8,0.5922453952673293,https://leetcode.com/problems/palindrome-number,Math
 MEDIUM,Rotate Array,84.0,0.43021388103635533,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
 EASY,Roman to Integer,79.9,0.6486630367350482,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
